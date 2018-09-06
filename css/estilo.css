@@ -1,0 +1,154 @@
+body, .container, .row, .col {
+    margin: 0;
+    padding: 0;
+}
+
+p { 
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #ddd;
+}
+a { 
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+#pg1, #pg2, #pg3, #pg4, #pg5, #pg6, #pg7, #pg8, #pg9 {
+    height: 110vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#pg1 {
+    height: 100vh;
+    background-color: #F9564F;
+}
+
+#pg2, #pg2 p {
+    background-color: #F5B700;
+    color: #555;
+}
+
+#pg3 {
+    background-color: #0C0A3E;
+}
+
+#pg4 {
+    background-color: #B33F62;
+}
+
+#pg5 {
+    background-color: #1B97FE;
+}
+
+#pg6, #pg6 p {
+    background-color: #04E762;
+    color: #555;
+}
+
+#pg7, #pg7 p {
+    background-color: #6A66A3;
+}
+
+#pg8 {
+    background-color: #F9564F;
+}
+
+#pg9 {
+    background-color: #1B97FE;
+}
+
+ #pg1 figure {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url('../img/Amora1.jpg');
+    background-size: cover;
+    background-position: -10%;
+    border: solid 2px #ccc;
+    margin: 25px auto;
+}
+
+#pg2 figure {
+    width: 200px;
+    height: 250px;
+    border-radius: 25%;
+    background-image: url('../img/GabiAmora.jpg');
+    background-size: 100%;
+    background-position: 50% ;
+    background-repeat: no-repeat;
+    border: solid 2px #ccc;
+    margin: 25px auto;
+}
+
+#pg3 figure {
+    width: 250px;
+    height: 200px;
+    border-radius: 25%;
+    background-image: url('../img/AmoraMala.jpg');
+    background-size: cover;
+    background-position: -10%;
+    border: solid 2px #ccc;
+    margin: 25px auto;
+}
+
+#pg4 figure {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url('../img/amoraSapato.jpg');
+    background-size: cover;
+    border: solid 2px #ccc;
+    margin: 25px auto;
+}
+
+#pg5 figure {
+    width: 200px;
+    height: 250px;
+    border-radius: 25%;
+    background-image: url('../img/GabiAmora2.jpg');
+    background-size: cover;
+    border: solid 2px #ccc;
+    margin: 25px auto;
+}
+
+#pg6 figure {
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+    background-image: url('../img/euAmora.jpeg');
+    background-size: cover;
+    border: solid 2px #555;
+    margin: 25px auto;
+}
+
+#pg7 figure {
+    width: 200px;
+    height: 350px;
+    border-radius: 10px;
+    background-image: url('../img/parabens.jpg');
+    background-size: cover;
+    border: solid 2px #ccc;
+    margin: 25px auto;
+}
+
+#pg8 figure {
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    background-image: url('../img/amoraDormindo.jpg');
+    background-size: cover;
+    border: solid 2px #ccc;
+    margin: 25px auto;
+}
+
+#pg9 figure {
+    width: 200px;
+    height: 350px;
+    border-radius: 10px;
+    background-image: url('../img/amoraProgramadora.jpeg');
+    background-size: cover;
+    border: solid 2px #ccc;
+    margin: 25px auto;
+}
